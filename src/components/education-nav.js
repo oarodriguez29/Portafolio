@@ -28,9 +28,9 @@ export default (props) =>{
                         return (
                             <article className="flex-1 bg-white shadow m-4 max-w-sm p-4">
                                 <header>
-                                    <p className="font-bold leading-loose"> {node.title} </p>
-                                    <div className="mt-8">
-                                        <p className="font-light"> {node.description} </p>                                        
+                                    <p className="font-bold text-center leading-loose"> {node.title} </p>
+                                    <div className="mt-8 text-center">
+                                        <p className="font-light h-20"> {node.description} </p>                                        
                                         <Link to={`${node.slug}`} className="btn inline-block mt-4">ir</Link>
                                     </div>
                                 </header>
