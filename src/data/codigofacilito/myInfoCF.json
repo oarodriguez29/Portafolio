@@ -1,0 +1,291 @@
+{
+    "data": {
+      "email": "omargumer22@gmail.com",
+      "username": "oarodriguez",
+      "certificates": [
+        {
+          "score": 9,
+          "code": "b686a914-6f02-4ced-9ce0-a9772689268a",
+          "title": "Curso Profesional de Base de Datos"
+        },
+        {
+          "score": 9,
+          "code": "a866b5a8-2b1b-49d8-b658-accc67daccf9",
+          "title": "Curso Profesional de React"
+        },
+        {
+          "score": 9,
+          "code": "5ee7a932-e9db-4574-8e6f-f943100742de",
+          "title": "Curso Profesional de Backend"
+        },
+        {
+          "score": 9,
+          "code": "6d46b161-d947-461d-ba4e-2ec281566321",
+          "title": "Curso Profesional de JavaScript"
+        },
+        {
+          "score": 9,
+          "code": "5702a24d-851b-477e-8cd5-ab3baf148e84",
+          "title": "Curso Profesional de Python"
+        }
+      ],
+      "articles": [
+        
+      ],
+      "courses": [
+        {
+          "title": "Curso Profesional Desarrollo Web",
+          "progress": "35.0",
+          "url": "http://codigofacilito.com/courses/frontend-profesional"
+        },
+        {
+          "title": "Curso de controles y efectos Frontend",
+          "progress": "14.0",
+          "url": "http://codigofacilito.com/courses/controles-efectos-frontend"
+        },
+        {
+          "title": "Curso Profesional de JavaScript",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/javascript-profesional"
+        },
+        {
+          "title": "Curso Profesional de Laravel",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/laravel-profesional"
+        },
+        {
+          "title": "Curso Profesional de Base de Datos",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/base-datos-profesional"
+        },
+        {
+          "title": "Desarrrolla una tienda en línea con Laravel y Vue",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/laravel-tienda-en-linea"
+        },
+        {
+          "title": "Curso a fondo de CSS",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/css"
+        },
+        {
+          "title": "Curso gratis de jQuery",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/jquery"
+        },
+        {
+          "title": "Curso Profesional de React",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/react-profesional"
+        },
+        {
+          "title": "Curso de introducción a Gatsby",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/gatsby-introduccion"
+        },
+        {
+          "title": "Curso Profesional de Backend",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/backend-profesional"
+        },
+        {
+          "title": "Curso de comandos básicos para la Terminal",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/comandos-terminal"
+        },
+        {
+          "title": "Curso de GraphQL con NodeJS",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/graphql-nodejs"
+        },
+        {
+          "title": "Curso de MongoDB",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/mongodb"
+        },
+        {
+          "title": "Curso Profesional de UML",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/uml"
+        },
+        {
+          "title": "Curso de noSQL con MongoDB",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/nosql-moongodb"
+        },
+        {
+          "title": "Curso Profesional de Vue",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/vue"
+        },
+        {
+          "title": "Taller de Apps Universales con Nuxt y Vue",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/taller-nuxt-vue"
+        },
+        {
+          "title": "Curso de Ionic desde 0",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/ionic-v4"
+        },
+        {
+          "title": "Taller de Notificaciones Push con Ionic",
+          "progress": "71.0",
+          "url": "http://codigofacilito.com/courses/ionic-notificaciones-push"
+        },
+        {
+          "title": "Curso de TypeScript",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/typescript"
+        },
+        {
+          "title": "Curso de NodeJS Gratis",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/nodejs"
+        },
+        {
+          "title": "Curso de CodeIgniter Gratis",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/CodeIgniter"
+        },
+        {
+          "title": "Curso Profesional de Python",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/python-profesional"
+        },
+        {
+          "title": "Curso para desarrollar servicios web REST con Nodejs",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+        },
+        {
+          "title": "Curso de backend con Sailsjs",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/sailsjs"
+        },
+        {
+          "title": "Curso para consumir APIs con AJAX",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/consumir-apis-javascript"
+        },
+        {
+          "title": "Curso de servicios web con Laravel",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/laravel-apis"
+        },
+        {
+          "title": "Curso de introducción a Vagrant",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/vagrant-introduccion"
+        },
+        {
+          "title": "Curso de diseño para programadores",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/diseno-basico"
+        },
+        {
+          "title": "Pruebas unitarias con PHP",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/php-testing"
+        },
+        {
+          "title": "Crea un sitio personal con Gatsby",
+          "progress": "53.0",
+          "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+        }
+      ],
+      "finished_courses": [
+        {
+          "title": "Curso Profesional de JavaScript",
+          "url": "http://codigofacilito.com/courses/javascript-profesional"
+        },
+        {
+          "title": "Curso Profesional de Laravel",
+          "url": "http://codigofacilito.com/courses/laravel-profesional"
+        },
+        {
+          "title": "Curso Profesional de Base de Datos",
+          "url": "http://codigofacilito.com/courses/base-datos-profesional"
+        },
+        {
+          "title": "Desarrrolla una tienda en línea con Laravel y Vue",
+          "url": "http://codigofacilito.com/courses/laravel-tienda-en-linea"
+        },
+        {
+          "title": "Curso a fondo de CSS",
+          "url": "http://codigofacilito.com/courses/css"
+        },
+        {
+          "title": "Curso Profesional de React",
+          "url": "http://codigofacilito.com/courses/react-profesional"
+        },
+        {
+          "title": "Curso de introducción a Gatsby",
+          "url": "http://codigofacilito.com/courses/gatsby-introduccion"
+        },
+        {
+          "title": "Curso Profesional de Backend",
+          "url": "http://codigofacilito.com/courses/backend-profesional"
+        },
+        {
+          "title": "Curso de comandos básicos para la Terminal",
+          "url": "http://codigofacilito.com/courses/comandos-terminal"
+        },
+        {
+          "title": "Curso de GraphQL con NodeJS",
+          "url": "http://codigofacilito.com/courses/graphql-nodejs"
+        },
+        {
+          "title": "Curso Profesional de UML",
+          "url": "http://codigofacilito.com/courses/uml"
+        },
+        {
+          "title": "Curso de noSQL con MongoDB",
+          "url": "http://codigofacilito.com/courses/nosql-moongodb"
+        },
+        {
+          "title": "Curso Profesional de Vue",
+          "url": "http://codigofacilito.com/courses/vue"
+        },
+        {
+          "title": "Taller de Apps Universales con Nuxt y Vue",
+          "url": "http://codigofacilito.com/courses/taller-nuxt-vue"
+        },
+        {
+          "title": "Curso de Ionic desde 0",
+          "url": "http://codigofacilito.com/courses/ionic-v4"
+        },
+        {
+          "title": "Curso de TypeScript",
+          "url": "http://codigofacilito.com/courses/typescript"
+        },
+        {
+          "title": "Curso Profesional de Python",
+          "url": "http://codigofacilito.com/courses/python-profesional"
+        },
+        {
+          "title": "Curso para desarrollar servicios web REST con Nodejs",
+          "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+        },
+        {
+          "title": "Curso de backend con Sailsjs",
+          "url": "http://codigofacilito.com/courses/sailsjs"
+        },
+        {
+          "title": "Curso de servicios web con Laravel",
+          "url": "http://codigofacilito.com/courses/laravel-apis"
+        },
+        {
+          "title": "Curso de diseño para programadores",
+          "url": "http://codigofacilito.com/courses/diseno-basico"
+        },
+        {
+          "title": "Pruebas unitarias con PHP",
+          "url": "http://codigofacilito.com/courses/php-testing"
+        }
+      ]
+    },
+    "errors": [
+      
+    ]
+  }

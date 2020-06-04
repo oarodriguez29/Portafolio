@@ -1,0 +1,12 @@
+{
+    "slug": "others",
+    "title": "Otros Logros académicos",
+    "description": "Talleres, diplomados en los que he participado",
+    "items": [
+        {
+            "name": "Instituto Universitario de Técnologia y Administración Industrial",
+            "degree": "Diplomado en Desarrollo Web",
+            "score": "96"
+        }
+    ]
+}

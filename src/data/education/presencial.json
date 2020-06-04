@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación Academica",
+    "description": "Formación academica, grados de estudio e instituciones a las que asisti",
+    "items": [
+        {
+            "name": "Instituto Universitario de Técnologia y Administración Industrial",
+            "degree": "Tsu. en Informática",
+            "score": "92"
+        },
+        {
+            "name": "Instituto Universitario de Técnologia y Administración Industrial",
+            "degree": "Taller Computacional",
+            "score": "96"
+        }
+    ]
+}
