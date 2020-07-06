@@ -1,4 +1,4 @@
-/** 
+/**
  * File: index.js
  * Description: Pagina Principal de la App.
 */
@@ -8,10 +8,11 @@ import Repos from "../components/repos";  // Importando componente 'repos.js'
 import Codigofacilito from "../components/codigofacilito"; // Importando componente 'codigofacilito.js'
 import Medium from "../components/medium";
 import EdNav from "../components/education-nav";
+import Footer from "../components/footer";
 
 /*
 export default function Home() {
-  return <div>Hello world!</div>  
+  return <div>Hello world!</div>
 }
 */
 
@@ -22,4 +23,5 @@ export default () => <div>
   <Repos />
   <Codigofacilito />
   <Medium />
+  <Footer />
 </div>
